@@ -52,7 +52,5 @@ Sinta-se à vontade para abrir uma issue para reportar bugs, sugerir melhorias o
 ## Autor
 [Bruno Alves] - [(https://www.linkedin.com/in/bruno-alves-09715437a)]
 
-## Licença
-Este projeto é distribuído sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 # sistema_financeiro-ca
  Sistema de Gestão Financeira para Centro Acadêmico
